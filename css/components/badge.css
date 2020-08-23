@@ -12,21 +12,22 @@
 
 .nav__dot {
   background-color: tomato;
-  width: 6px;
-  height: 6px;
-  border-radius: 3px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
   display: flex;
   position: absolute;
-  left: 28px;
+  left: 30px;
   bottom: 28px;
 }
 
-.icons__dot {
+.icon__dot {
   background-color: tomato;
-  width: 6px;
-  height: 6px;
-  border-radius: 3px;
-  position: relative;
-  left: 97px;
-  bottom: 23px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  display: flex;
+  position: absolute;
+  left: 22px;
+  bottom: 20px;
 }
