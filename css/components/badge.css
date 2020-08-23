@@ -9,3 +9,24 @@
   color: white;
   font-weight: 600;
 }
+
+.nav__dot {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  display: flex;
+  position: absolute;
+  left: 28px;
+  bottom: 28px;
+}
+
+.icons__dot {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  position: relative;
+  left: 97px;
+  bottom: 23px;
+}
